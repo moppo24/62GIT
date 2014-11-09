@@ -1,4 +1,2 @@
-<?php echo "rimane only index";
-
-
+rimane only index
 
