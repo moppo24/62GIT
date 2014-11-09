@@ -1,4 +1,4 @@
-<?php echo "prova";
+<?php echo "rimane only index";
 
 
 
